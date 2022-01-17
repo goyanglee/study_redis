@@ -70,7 +70,7 @@ apiv1/get/{key}
 1. python [monitor.py](http://monitor.py/) ./monitor.ini
 2. telnet 0 6379 > info 
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0b745d7f-6802-4648-adf6-8f2acaf8e32d/Untitled.png)
+![Untitled](https://github.com/goyanglee/study_redis/blob/main/Chapter%202.%20%EB%8C%80%EA%B7%9C%EB%AA%A8%20%EC%84%9C%EB%B9%84%EC%8A%A4%20%EC%84%A4%EA%B3%84%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EB%B0%B1%EC%97%94%EB%93%9C%20%EC%97%90%EC%84%BC%EC%85%9C/image/2.4.1.png)
 
 1. API 서버 띄우기. the_red/chapter_2/redis_failover ./start.sh 172.30.1.23:7001 
 2. [http://172.30.1.23:7001/api/v1/write/100?value=user100](http://172.30.1.23:7001/api/v1/write/100?value=user100) 
