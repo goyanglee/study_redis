@@ -41,7 +41,7 @@
         1. 응답 결과를 그대로 저장하거나 새로운 응답을 구성해서 저장한다.
         2. 피드(빈도)를 추가하고 sorted set을 사용할 수도 있다.
 
-![Untitled](https://github.com/goyanglee/study_redis/blob/main/Chapter 3. 대규모 트래픽 처리를 위한 Redis/image/3_2_1.png)
+![Untitled](https://github.com/goyanglee/study_redis/blob/main/Chapter%203.%20%EB%8C%80%EA%B7%9C%EB%AA%A8%20%ED%8A%B8%EB%9E%98%ED%94%BD%20%EC%B2%98%EB%A6%AC%EB%A5%BC%20%EC%9C%84%ED%95%9C%20Redis/image/3_2_1.png)
 
 #### 사용 예: Access Token
 
