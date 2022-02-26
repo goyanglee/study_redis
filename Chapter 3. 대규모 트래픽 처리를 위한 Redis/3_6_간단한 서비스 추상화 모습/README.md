@@ -82,3 +82,26 @@ iteshuicBookPro:guid itesh$ docker run -e WORKER_ID=0 -e DATACENTER the_red/guid
 
 
 <br/>
+
+# 어떻게 성장할 것인가?
+
+
+
+"Hard Skill + Soft Skill"
+
+
+
+#### 오픈소스 선정 조건
+
+- 관심도 : 내가 관심이 있던 기술인가?
+- 사용 빈도 : 내가 자주 접하는 오픈 소스인가?
+- 언어 : 내가 충분히 익숙한 언어로 구현되었는가?
+- 기반 지식 : 관련 기반 지식을 이해하고 있는가?
+
+<br/>
+
+#### 이상적인 오픈소스 참여 플로우
+
+업무로 오픈소스 사용 -> 사용 중에 버그 발견 -> 버그 수정 -> upstream 반영
+
+
